@@ -1,0 +1,2 @@
+﻿  Main.cpp
+d:\nhtv\assessment\sebastiaankappert\assementsebaskappert\assementsebaskappert\main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

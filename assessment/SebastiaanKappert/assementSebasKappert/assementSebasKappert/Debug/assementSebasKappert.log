@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\nhtv\assessment\sebastiaankappert\assementsebaskappert\assementsebaskappert\source\main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\nhtv\assessment\sebastiaankappert\assementsebaskappert\assementsebaskappert\source\main.cpp(93): warning C4018: '<': signed/unsigned mismatch
+d:\nhtv\assessment\sebastiaankappert\assementsebaskappert\assementsebaskappert\source\main.cpp(149): warning C4018: '<': signed/unsigned mismatch
+d:\nhtv\assessment\sebastiaankappert\assementsebaskappert\assementsebaskappert\source\main.cpp(157): warning C4018: '<': signed/unsigned mismatch
+  assementSebasKappert.vcxproj -> D:\NHTV\assessment\SebastiaanKappert\assementSebasKappert\Debug\assementSebasKappert.exe
+  assementSebasKappert.vcxproj -> D:\NHTV\assessment\SebastiaanKappert\assementSebasKappert\Debug\assementSebasKappert.pdb (Full PDB)
