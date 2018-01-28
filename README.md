@@ -21,3 +21,5 @@ http://en.cppreference.com/w/
 
 http://www.cplusplus.com/reference/
 
+
+Please be aware that in the main.cpp there is a bit of code that currently does not work with the current debug lib
